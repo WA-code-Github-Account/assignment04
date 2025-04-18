@@ -1,45 +1,67 @@
-# 🐍 Python Practice Assignments
 
-Welcome to my collection of Python beginner-level practice assignments. These notebooks are part of my learning journey where I explore core programming concepts using Python in Google Colab.
+<h1 align="center">📘 Python Projects Portfolio</h1>
 
----
-
-## 📚 Assignments Overview
-
-| Step | File Name                    | Description                                 | Status       | Last Updated   |
-|------|------------------------------|---------------------------------------------|--------------|----------------|
-| 00   | `00_intro_python.ipynb`      | Introduction to Python basics.              | ✅ Completed  | 4 days ago     |
-| 01   | `01_expressions.ipynb`       | Practice with variables & expressions.      | ✅ Completed  | 2 days ago     |
-| 02   | `02_lists.ipynb`             | Working with Python lists.                  | ✅ Completed  | 2 days ago     |
-| 03   | `03_if_statements.ipynb`     | Writing conditional logic using if statements. | ✅ Completed | 1 day ago      |
-| 04   | `04_dictionaries.ipynb`      | Understanding and using dictionaries.       | ✅ Completed  | 12 minutes ago |
-| 05   | `05_loops_control_flow.ipynb`| Loops (for, while) and flow control practice. | ✅ Completed | 10 minutes ago |
+<p align="center">
+  <b>Created by Aziza Siddiqui</b><br>
+  📧 Email: <a href="mailto:wahishaikh545@gmail.com">wahishaikh545@gmail.com</a>  
+  📱 Cell: 03003337552
+</p>
 
 ---
 
-## 🛠 Tools Used
-- Google Colab
-- Python 3
-- Markdown for documentation
+## 🧠 About This Repository
+
+Welcome! This repo includes all my Python learning notebooks and projects, from basics to intermediate-level exercises. Each notebook helps develop concepts with hands-on examples and creative problem-solving.
 
 ---
 
-## ✨ How to Run
-Open each notebook in Google Colab or Jupyter Notebook and follow the instructions inside each step.
+## 🗂️ Table of Contents
+
+### 🔹 1. Python Fundamentals
+
+| File | Description |
+|------|-------------|
+| `00_intro_python.ipynb` | 🐍 Python setup & basic syntax |
+| `01_expressions.ipynb` | ➕ Expressions and variable usage |
+| `02_lists.ipynb` | 📚 List structures and methods |
+| `03_if_statements.ipynb` | 🔀 If-else conditionals |
+| `04_dictionaries.ipynb` | 🗂️ Dictionary operations |
+| `05_loops_control_flow.ipynb` | 🔁 Looping and control flow |
 
 ---
 
-## 📌 Notes
-This repository is a part of my learning and self-practice from GIAIC. Each notebook contains code, examples, and explanations for better understanding.
+### 🔸 2. Online Class Projects
+
+| File | Description |
+|------|-------------|
+| `online_class_projects_01_basics.ipynb` | 💡 Beginner-friendly exercises |
+| `online_class_projects_02_intermediate.ipynb` | 🚀 Intermediate logic & patterns |
 
 ---
 
-## 👩‍💻 Author
-**Aziza Siddiqui**  
-Student | Python Learner | GIAIC Program
+### 💻 3. Personal Projects
+
+| File | Description |
+|------|-------------|
+| `Python_Projects_.ipynb` | 🌟 Custom projects built using core Python skills |
 
 ---
 
-## 📬 Contact
-##03003337552 ## 
-Feel free to reach out if you have questions or suggestions!
+## 🎯 My Learning Goals
+
+- ✔️ Strengthen Python fundamentals  
+- ✔️ Practice logic with real-world tasks  
+- ✔️ Build mini AI and game projects  
+- ✔️ Present code in an attractive and useful way  
+
+---
+
+## 📬 Contact Me
+
+> 💌 **Email:** [wahishaikh545@gmail.com](mailto:wahishaikh545@gmail.com)  
+> 📱 **Phone:** 03003337552  
+> 👩‍💻 **Author:** *Aziza Siddiqui*
+
+---
+
+_“Programming ek safar hai — aur har line of code ek nayi manzil tak le jaati hai.”_
